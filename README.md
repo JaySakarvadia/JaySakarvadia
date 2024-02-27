@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Jay Sakarvadia
 
-👀 I’m interested in data science, specifically applications of machine/deep learning
-📫 How to reach me: jay.sakarvadia@gmail.com
+- 👀 I’m interested in data science, specifically applications of machine/deep learning
+- 📫 How to reach me: jay.sakarvadia@gmail.com
 
 <!--
 **JaySakarvadia/JaySakarvadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
