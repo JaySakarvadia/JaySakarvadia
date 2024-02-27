@@ -1,6 +1,7 @@
 ### 👋 Hi, I’m Jay Sakarvadia
 
-- 👀 I’m interested in data science, specifically applications of machine/deep learning
+- 🏫 Student at UNC-Chapel Hill studying Computer Science + Economics + Statistics (Minor)
+- 👀 I’m interested in data science, specifically, applications of machine/deep learning
 - 📫 How to reach me: jay.sakarvadia@gmail.com
 
 <!--
