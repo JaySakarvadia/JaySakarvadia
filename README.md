@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Jay Sakarvadia
 
-- 🏫 Student at UNC-Chapel Hill studying Computer Science + Economics + Statistics (Minor)
+- 🏫 Student at UNC-Chapel Hill studying Computer Science and Economics with a minor in Statistics
 - 👀 I’m interested in data science, specifically, applications of machine/deep learning
 - 📫 How to reach me: jay.sakarvadia@gmail.com
 
